@@ -1,1 +1,1 @@
-https://drive.google.com/drive/folders/1b2_cL_8UB_2NDuWZRikH1-OK0HUVPMAv
+[Requirements.pdf](https://github.com/adelp13/Tema-Algoritmi-Genetici/files/14925866/Requirements.pdf)
