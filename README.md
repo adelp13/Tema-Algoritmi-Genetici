@@ -1,1 +1,1 @@
-Program in Python that maximize a function using genetic algorithms.
+Program in Python that maximizes a function using genetic algorithms.
